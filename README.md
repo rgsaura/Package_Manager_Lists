@@ -1,2 +1,2 @@
-# Package_Manager_Lists
+# Package Manager Lists
 A list of interesting packages I recommend for every package manager
